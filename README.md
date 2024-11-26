@@ -99,10 +99,12 @@
 </div>
 
 <br/>
+
 ## 🧱 아키텍쳐
 
 ![아키텍처](https://github.com/user-attachments/assets/c6afd827-4dc9-4c93-a96c-878c38aef708)
 <br/>
+
 ## 🧑‍🤝‍🧑 팀원 소개
 
 - **FE**
