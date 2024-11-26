@@ -94,7 +94,7 @@
   
   | **About Us**                                                                                          | **Explore**                                                                                       |
   | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
-  | <img src="https://github.com/user-attachments/assets/e3632497-7335-45bd-ae03-8d233af03ab2" width="100%"/> | <img src="https://github.com/user-attachments/assets/2114fd83-7839-4f5c-99fa-73fa700f40ff" width="50%"/> |
+  | <img src="https://github.com/user-attachments/assets/e3632497-7335-45bd-ae03-8d233af03ab2" width="100%"/> | <img src="https://github.com/user-attachments/assets/2114fd83-7839-4f5c-99fa-73fa700f40ff" width="100%"/> |
   
 </div>
 
